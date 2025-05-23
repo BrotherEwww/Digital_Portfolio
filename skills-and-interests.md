@@ -1,8 +1,5 @@
 # Skills and Interests
 
-## 📄 Evidence
-
-![Skills and Interests Completion Screenshot](assets/skills-and-interests.png)
 
 I completed the Skills and Interests module as part of the Project Presentation 3 coursework. This interactive module helped me understand how my values, strengths, and interests influence my future career direction.
 
