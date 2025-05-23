@@ -2,9 +2,6 @@
 
 I completed the "Career Development" module on 07 February 2025 and scored 100/100. This formative assessment covered the purpose and outcomes of career counselling and setting effective career goals.
 
-## 📄 Evidence
-
-![Career Development Completion Screenshot](career counselling.png)
 
 ## 💭 Reflection (STAR)
 
