@@ -1,9 +1,5 @@
 # Create a Curriculum Vitae (CV)
 
-## 📄 Evidence
-
-I completed the "Create a CV" formative module on **3 March 2025**, which focused on the structure, purpose, and essential components of a professional curriculum vitae.
-
 
 ## 💭 Reflection (STAR)
 
