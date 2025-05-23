@@ -3,12 +3,6 @@
 
 I completed the Personality Assessment module on **21 February 2025** as part of the PRP370-1-2S work readiness training. The module explored how different personality types align with various career paths and helped me understand where my own preferences might fit within the workplace.
 
-
-Topics included:
-- Career matching with personality types
-- The "Realistic", "Artistic", and "Conventional" personality traits
-- Preferences for working with data, systems, and people
-
 ## 💭 Reflection (STAR)
 
 **S – Situation:**  
