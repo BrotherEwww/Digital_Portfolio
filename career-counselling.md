@@ -1,6 +1,6 @@
 # Career Counselling
 
-## 📄 Evidence
+## 
 
 ![Career Development Completion Screenshot](assets/career-development.png)
 
@@ -19,3 +19,4 @@ I went through the module thoroughly, answering the scenario-based questions acc
 
 **R – Result:**  
 I scored 100/100 on the assessment and deepened my understanding of how structured career guidance supports professional growth.
+I learned that career counselling is more than just getting job advice, it's about identifying your strengths, setting long-term goals, and planning small steps to reach them. This has encouraged me to take initiative in mapping out my post-graduation plans, including internships and mentorship.
